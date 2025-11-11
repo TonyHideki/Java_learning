@@ -1,4 +1,4 @@
-package 計算機;
+package 計算機;//スッキリわかるJava入門　第2章
 import java.util.Scanner;//ライブラリの読み込み,キーボードから入力を受け取るために必要。
 /*コンソール電卓のその1(ループ無し)*/
 public class calculator1 {//クラス宣言,Javaの基本構文。「calculator1」という名前のプログラム。
