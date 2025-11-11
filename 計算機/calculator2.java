@@ -1,8 +1,7 @@
 package 計算機;
 import java.util.Scanner; 
-
 /*コンソール電卓のその2(ループ有り)*/
-public class 手入力計算機その2 {
+public class calculator2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
