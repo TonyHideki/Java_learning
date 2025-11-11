@@ -1,5 +1,7 @@
 package 計算機;
-import java.util.Scanner; 
+
+import java.util.Scanner;
+
 /* コンソール電卓（ans機能付き） */
 public class calculator3 {
     public static void main(String[] args) {
