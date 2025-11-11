@@ -1,7 +1,7 @@
 package 計算機;
 import java.util.Scanner;//ライブラリの読み込み,キーボードから入力を受け取るために必要。
 /*コンソール電卓のその1(ループ無し)*/
-public class 手入力計算機その1 {//クラス宣言,Javaの基本構文。「手入力計算機その1」という名前のプログラム。
+public class calculator1 {//クラス宣言,Javaの基本構文。「calculator1」という名前のプログラム。
     public static void main(String[] args) {//メインメソッド,Javaプログラムの「最初に実行される部分」。
         Scanner scanner = new Scanner(System.in);//入力準備,コンソール入力を受け付けるためのScannerオブジェクトを作成。
 
